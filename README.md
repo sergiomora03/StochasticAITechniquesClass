@@ -62,15 +62,13 @@ La evaluación del curso se realizará a través de las siguientes evaluaciones 
 
 ## Cronograma
 
-*TBD*
-
 | Fecha | Sesión | Notebooks/Presentaciones | Ejercicios |
 | :---- | :--- | :--- | :--- |
-| **Semana 1** | PCA y Regresión | \<ul\>\<li\>[Intro PCA](https://www.google.com/search?q=)\</li\> \<li\>[Intro Regresión](https://www.google.com/search?q=)\</li\>\</ul\> | \<ul\>\<li\>[Taller 1](https://www.google.com/search?q=)\</li\>\</ul\> |
-| **Semana 2** | Regresión Logística | \<ul\>\<li\>[Intro Reg. Logística](https://www.google.com/search?q=)\</li\>\</ul\> | |
-| **Semana 3** | Modelos de Clasificación | \<ul\>\<li\>[Intro Bayesianos](https://www.google.com/search?q=)\</li\>\</ul\> | \<ul\>\<li\>[Taller 2](https://www.google.com/search?q=)\</li\>\</ul\> |
-| **Semana 4** | Procesos Estocásticos | \<ul\>\<li\>[Intro Cadenas de Markov](https://www.google.com/search?q=)\</li\> \<li\>[Intro Montecarlo](https://www.google.com/search?q=)\</li\>\</ul\> | \<ul\>\<li\>[Juego Serio](https://www.google.com/search?q=)\</li\>\</ul\> |
-| **Semana 5** | Hackatón | \<ul\>\<li\>[Presentación Hackatón](https://www.google.com/search?q=)\</li\>\</ul\> | \<ul\>\<li\>[Hackatón](https://www.google.com/search?q=)\</li\>\</ul\> |
+| **Semana 1** | PCA y reducción de dimensiones | [L1: Intro PCA](Notebooks/L1_IntroPCA-3.ipynb)<br>[L2: Pipeline PCA](Notebooks/L2_pipelinePCA-2.ipynb)<br>[L3: Validación Ortogonal](Notebooks/L3_ValidationOrthogonal-2.ipynb) | - |
+| **Semana 2** | Regresión Lineal, Regresión Logística y Feature Selection | [L4: Regresión Lineal](Notebooks/L4_LinearRegression.ipynb) <br>[L5: Regresión Logistica](Notebooks/L5_LogisticRegression.ipynb) | |
+| **Semana 3** | Modelos de Clasificación | Intro Bayesianos | - |
+| **Semana 4** | Procesos Estocásticos | Intro Cadenas de Markov<br>Intro Montecarlo | - |
+| **Semana 5** | Hackatón | Presentación Hackatón | Hackatón |
 
 -----
 
