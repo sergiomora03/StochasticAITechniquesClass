@@ -5,7 +5,7 @@
   * **Profesor Magistral:** Jorge Andrés Alvarado Valencia
   * **Profesor de Seguimiento:** Sergio A. Mora Pardo
       * email: [sergioa.mora@javeriana.edu.co](mailto:sergioa.mora@javeriana.edu.co)
-      * github: [sergiomora03](http://github.com/sergiomora03)
+      * github: [sergiomorapardo](http://github.com/sergiomorapardo)
 
 En esta asignatura se van a presentar los conceptos básicos para la aplicación de **modelos estadísticos** y **procesos estocásticos** como herramientas de solución a los problemas de **predicción**, **clasificación** y **optimización** en el campo del aprendizaje de máquina y la inteligencia artificial.
 
