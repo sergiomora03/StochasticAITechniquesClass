@@ -66,7 +66,7 @@ La evaluación del curso se realizará a través de las siguientes evaluaciones 
 | :---- | :--- | :--- | :--- |
 | **Semana 1** | PCA y reducción de dimensiones | [L1: Intro PCA](Notebooks/L1_IntroPCA-3.ipynb)<br>[L2: Pipeline PCA](Notebooks/L2_pipelinePCA-2.ipynb)<br>[L3: Validación Ortogonal](Notebooks/L3_ValidationOrthogonal-2.ipynb) | - |
 | **Semana 2** | Regresión Lineal, Regresión Logística y Feature Selection | [L4: Regresión Lineal](Notebooks/L4_LinearRegression.ipynb) <br>[L5: Regresión Logistica](Notebooks/L5_LogisticRegression.ipynb) <br>[L6: Cross Validation & Grid Search](Notebooks/L6_CrossValidation.ipynb)| |
-| **Semana 3** | Modelos de Clasificación | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb) <br> Intro Bayesianos | - |
+| **Semana 3** | Modelos de Clasificación | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb) <> [L8: KNN](Notebooks/L8_KNN.ipynb) <br> Intro Bayesianos | - |
 | **Semana 4** | Procesos Estocásticos | Intro Cadenas de Markov<br>Intro Montecarlo | - |
 | **Semana 5** | Hackatón | Presentación Hackatón | Hackatón |
 
